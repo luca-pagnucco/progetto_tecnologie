@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/normal"
+        android:title="Normal"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/fill"
+        android:title="Fill"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/black"
+        android:title="Black"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/darkGray"
+        android:title="Dark Gray"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/gray"
+        android:title="Gray"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/lightGray"
+        android:title="Ligth Gray"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/brown"
+        android:title="Brown"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/red"
+        android:title="Red"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/orange"
+        android:title="Orange"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/yellow"
+        android:title="Yellow"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/blue"
+        android:title="Blue"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/green"
+        android:title="Green"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/magenta"
+        android:title="Magenta"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/pinkskin"
+        android:title="Pink Skin"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/cyan"
+        android:title="Cyan"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/rubber"
+        android:title="Rubber"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/clear"
+        android:title="Clear"
+        app:showAsAction="never" />
+
+</menu>

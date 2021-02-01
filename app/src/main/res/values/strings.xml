@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">anDRAWoid</string>
+
+    <string-array name="images_eng">
+        <item>Random</item>
+        <item>App icon</item>
+        <item>Gabibbo</item>
+        <item>Giuseppe Conte</item>
+        <item>Frank Horrigan</item>
+        <item>Android Studio</item>
+        <item>Upload from gallery</item>
+    </string-array>
+
+    <string-array name="images_ita">
+        <item>Casuale</item>
+        <item>Icona app</item>
+        <item>Gabibbo</item>
+        <item>Giuseppe Conte</item>
+        <item>Frank Horrigan</item>
+        <item>Android Studio</item>
+        <item>Carica da galleria</item>
+    </string-array>
+
+    <string-array name="songs_eng">
+        <item>Dancing Polish Cow (8-bit)</item>
+        <item>#IoPensoPositivo OST</item>
+        <item>Marty Robbins - Big Iron</item>
+        <item>Deltarune OST - Trash Machine</item>
+        <item>The Chalkeaters - It Just Works</item>
+        <item>DONT! Please, just DO NOT!!</item>
+        <item>Stop</item>
+    </string-array>
+
+    <string-array name="songs_ita">
+        <item>Dancing Polish Cow (8-bit)</item>
+        <item>#IoPensoPositivo OST</item>
+        <item>Marty Robbins - Big Iron</item>
+        <item>Deltarune OST - Trash Machine</item>
+        <item>The Chalkeaters - It Just Works</item>
+        <item>NO! Ti prego, NON FARLO!!</item>
+        <item>Stop</item>
+    </string-array>
+
+</resources>
